@@ -1,0 +1,36 @@
+{
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {},
+        "properties": {
+          "type": "code",
+          "provincia": "Lima",
+          "code": "15135",
+          "description": "Lima description"
+        }
+        .*"description".*\r?\n
+      },
+      {
+        "type": "Feature",
+        "geometry": {},
+        "properties": {
+          "type": "code",
+          "provincia": "Barranca",
+          "code": "15136",
+          "description": "Barranca description"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {},
+        "properties": {
+          "type": "code",
+          "provincia": "Cañete",
+          "code": "15137",
+          "description": "Cañete description"
+        }
+      }
+    ]
+  }
+  
